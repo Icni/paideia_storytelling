@@ -1,0 +1,11 @@
+[package]
+name = "predicate_improv"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+derive_deref = "1.1.1"
+eframe = "0.33.3"
+egui_material_icons = "0.5.0"
+rand = "0.9.2"
+rfd = "0.17.2"

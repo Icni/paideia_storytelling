@@ -1,0 +1,9 @@
+[package]
+name = "cutout"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+eframe = "0.33.3"
+egui_material_icons = "0.5.0"
+rand = "0.9.2"
